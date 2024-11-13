@@ -8,7 +8,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/techag/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/techag)
 
-"SirVikinG Khan"  Lider de la Comunidad "EndlesS Clan"  , dedicada a aprender y compartir conocimientos sobre inteligencia artificial aplicada a la programación. Nos enfocamos en desarrollar soluciones innovadoras para mejorar la productividad mediante tecnología, resolver desafíos técnicos y apoyar a cada miembro en el desarrollo de sus habilidades y metas profesionales."
+Soy SirVikinG Khan, líder de la comunidad EndlesS Clan, donde nos dedicamos a explorar y compartir conocimientos sobre inteligencia artificial aplicada a la programación. Juntos, buscamos soluciones tecnológicas innovadoras para impulsar la productividad, superar retos y ayudar a cada miembro a desarrollar sus habilidades y alcanzar sus metas profesionales.
 ## Tecnologías 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
