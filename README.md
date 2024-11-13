@@ -8,8 +8,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/techag/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/techag)
 
-Comunidad dedicada a aprender y compartir conocimientos en inteligencia artificial aplicada a la agricultura y geosintéticos. Estamos aquí para mejorar la productividad agrícola mediante la tecnología, resolver desafíos y ayudar a cada miembro a alcanzar sus metas.
-
+"Comunidad liderada por SirVikinG Khan, dedicada a aprender y compartir conocimientos sobre inteligencia artificial aplicada a la programación. Nos enfocamos en desarrollar soluciones innovadoras para mejorar la productividad mediante tecnología, resolver desafíos técnicos y apoyar a cada miembro en el desarrollo de sus habilidades y metas profesionales."
 ## Tecnologías 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
