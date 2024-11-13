@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenid@ al GitHub de SirVikinG Khan
 
-![Banner de Tech Ag](banner-github-sk.png)
+![Banner de Tech Ag](th.jpeg)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@techag)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@techag)
