@@ -1,4 +1,5 @@
-# <Image src="/images/sirkhan.png" alt="Sirkhan" width={500} height={500} />
+# <img src="./sirkhan.png" alt="Sirkhan" />
+
  Bienvenid@ al GitHub de SirVikinG Khan
 
 ![Banner de Tech Ag](th.jpeg)
