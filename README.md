@@ -1,4 +1,3 @@
-# <img src="./sirkhan.png" alt="Sirkhan" />
 
  Bienvenid@ al GitHub de SirVikinG Khan
 
