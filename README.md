@@ -26,7 +26,4 @@ Soy SirVikinG Khan, líder de la comunidad EndlesS Clan, donde nos dedicamos a e
 
 ## Las estadísticas del repositorio
 ![Tech Ag GitHub stats](https://github-readme-stats.vercel.app/api?username=techag&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techag&layout=compact&theme=dark)
-17&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cómo la IA puede mejorar la producción agrícola")](https://www.youtube.com/watch?v=Mv7nnR-x4dc)
-[![Cómo funciona la Inteligencia Artificial en la Agricultura](https://ytcards.demolab.com/?id=4uRXZdb5IXo&title=C%C3%B3mo+funciona+la+Inteligencia+Artificial+en+la+Agricultura&lang=en&timestamp=1728940014&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cómo funciona la Inteligencia Artificial en la Agricultura")](https://www.youtube.com/watch?v=4uRXZdb5IXo)
-[![El futuro de la agricultura digital: Tendencias y tecnologías](https://ytcards.demolab.com/?id=zST3Z-1_4yE&title=El+futuro+de+la+agricultura+digital%3A+Tendencias+y+tecnolog%C3%ADas&lang=en&timestamp=1728936669&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "El futuro de la agricultura digital: Tendencias y tecnologías")](https://www.youtube.com/watch?v=zST3Z-1_4yE)
-<!-- END YOUTUBE-CARDS -->
+17&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cómo la IA puede mejorar la 
