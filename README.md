@@ -1,4 +1,5 @@
-# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenid@ al GitHub de SirVikinG Khan
+# <Image src="/images/sirkhan.png" alt="Sirkhan" width={500} height={500} />
+ Bienvenid@ al GitHub de SirVikinG Khan
 
 ![Banner de Tech Ag](th.jpeg)
 
